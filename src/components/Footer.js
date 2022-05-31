@@ -33,6 +33,7 @@ class Footer extends Component {
                 <a
                   href="https://github.com/Dorota1997/react-frontend-dev-portfolio"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   {" "}
                   Dorota1997
