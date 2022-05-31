@@ -5,7 +5,7 @@ class Skills extends Component {
     if (this.props.sharedSkills && this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.skills;
       var lg_skills = this.props.sharedSkills.icons.map(function (skills, i) {
-        if (skills.type == "lg") {
+        if (skills.type === "lg") {
           return (
             <li className="list-inline-item mx-3" key={i}>
               <span>
@@ -28,7 +28,7 @@ class Skills extends Component {
       });
 
       var fw_skills = this.props.sharedSkills.icons.map(function (skills, i) {
-        if (skills.type == "fw") {
+        if (skills.type === "fw") {
           return (
             <li className="list-inline-item mx-3" key={i}>
               <span>
@@ -51,7 +51,7 @@ class Skills extends Component {
       });
 
       var be_skills = this.props.sharedSkills.icons.map(function (skills, i) {
-        if (skills.type == "be") {
+        if (skills.type === "be") {
           return (
             <li className="list-inline-item mx-3" key={i}>
               <span>
