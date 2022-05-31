@@ -1,0 +1,179 @@
+{
+  "basic_info": {
+    "name": "Naman Barkiya",
+    "titles": ["MERN Stack Developer", "Android App Developer", "Freelancer"],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90",
+        "type": "lg"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70",
+        "type": "lg"
+      },
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95",
+        "type": "lg"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95",
+        "type": "lg"
+      },
+      {
+        "name": "Kotlin",
+        "class": "devicon-kotlin-plain",
+        "level": "95",
+        "type": "lg"
+      },
+      {
+        "name": "Java",
+        "class": "devicon-java-plain",
+        "level": "95",
+        "type": "lg"
+      },
+      {
+        "name": "C",
+        "class": "devicon-c-plain",
+        "level": "95",
+        "type": "lg"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "95",
+        "type": "lg"
+      },
+      {
+        "name": "CPP",
+        "class": "devicon-cplusplus-plain",
+        "level": "95",
+        "type": "lg"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original",
+        "level": "95",
+        "type": "fw"
+      },
+      {
+        "name": "Nextjs",
+        "class": "devicon-nextjs-original",
+        "level": "75",
+        "type": "fw"
+      },
+      {
+        "name": "Nestjs",
+        "class": "devicon-nestjs-plain",
+        "level": "75",
+        "type": "fw"
+      },
+      {
+        "name": "Angular",
+        "class": "devicon-angularjs-plain",
+        "level": "80",
+        "type": "fw"
+      },
+      {
+        "name": "Redux",
+        "class": "devicon-redux-original",
+        "level": "75",
+        "type": "fw"
+      },
+      {
+        "name": "Nodejs",
+        "class": "devicon-nodejs-plain",
+        "level": "75",
+        "type": "fw"
+      },
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original",
+        "level": "75",
+        "type": "fw"
+      },
+      {
+        "name": "Material UI",
+        "class": "devicon-materialui-plain",
+        "level": "75",
+        "type": "fw"
+      },
+      {
+        "name": "SockeIO",
+        "class": "devicon-socketio-original",
+        "level": "75",
+        "type": "fw"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85",
+        "type": "fw"
+      },
+      {
+        "name": "MongoDB",
+        "class": "devicon-mongodb-plain",
+        "level": "60",
+        "type": "be"
+      },
+      {
+        "name": "GraphQL",
+        "class": "devicon-graphql-plain",
+        "level": "60",
+        "type": "be"
+      },
+      {
+        "name": "Express",
+        "class": "devicon-express-original",
+        "level": "60",
+        "type": "be"
+      },
+      {
+        "name": "Firebase",
+        "class": "devicon-firebase-plain",
+        "level": "60",
+        "type": "be"
+      },
+      {
+        "name": "Postgres",
+        "class": "devicon-postgresql-plain",
+        "level": "60",
+        "type": "be"
+      },
+      {
+        "name": "AWS",
+        "class": "devicon-amazonwebservices-original",
+        "level": "60",
+        "type": "be"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60",
+        "type": "be"
+      }
+    ]
+  }
+}
