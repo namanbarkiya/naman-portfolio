@@ -60,6 +60,7 @@ class HomePage extends Component {
                     <Projects
                         resumeProjects={basicInfoData.projects.slice(0, 3)}
                         resumeBasicInfo={basicInfoData.basic_info}
+                        page={"home"}
                     />
                     <Skills
                         sharedSkills={myInfoData.skills}
